@@ -1,5 +1,4 @@
 Flask==1.1.2
-python3-distutils
 setuptools>=67.0.0
 Werkzeug==2.0.1
 numpy==1.19.5
