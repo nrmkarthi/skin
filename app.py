@@ -60,6 +60,3 @@ def submit_file():
             flash(full_filename)
             return redirect('/')
 
-
-if __name__ == "__main__":
-    app.run()
